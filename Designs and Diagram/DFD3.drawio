@@ -1,0 +1,104 @@
+<mxfile host="Electron" modified="2024-03-27T08:43:03.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="JIOz46YK1cPz6z4ufu5N" version="24.1.0" type="device">
+  <diagram name="Page-1" id="n4027QlTKB7G26Rkp_vb">
+    <mxGraphModel dx="780" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-3" target="ZC_vPf_A6GWEj_sA9RDc-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-3" value="Seller&#39;s Wallet" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-6" target="ZC_vPf_A6GWEj_sA9RDc-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-6" target="ZC_vPf_A6GWEj_sA9RDc-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-6" value="Transfer&lt;br&gt;Price&lt;br&gt;Amount" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="280" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-9" target="ZC_vPf_A6GWEj_sA9RDc-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-8" value="Transition&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-9" target="ZC_vPf_A6GWEj_sA9RDc-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="200" />
+              <mxPoint x="720" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-9" value="smart &lt;br&gt;contracts" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="520" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-11" target="ZC_vPf_A6GWEj_sA9RDc-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-11" value="Send &lt;br&gt;approval &lt;br&gt;status" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="220" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-13" target="ZC_vPf_A6GWEj_sA9RDc-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-13" value="User&#39;s Wallet" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="400" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-15" target="ZC_vPf_A6GWEj_sA9RDc-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-15" value="Transfer&amp;nbsp;&lt;br&gt;NFT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340.0000000000002" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-17" value="Approve&amp;nbsp;&lt;br&gt;Payment&lt;br&gt;request" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-18" value="Transection&amp;nbsp;&lt;br&gt;management&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="800" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-19" value="View&lt;br&gt;Item" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="760" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-20" value="Buy Request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-19" target="ZC_vPf_A6GWEj_sA9RDc-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="540" />
+              <mxPoint x="700" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-21" value="find item" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-22" target="ZC_vPf_A6GWEj_sA9RDc-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-22" value="View&lt;br&gt;Mrketplce&lt;br&gt;Catalogue" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="520" y="800" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-24" target="ZC_vPf_A6GWEj_sA9RDc-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-24" value="Payment&lt;br&gt;Approval" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="220" y="610" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-27" target="ZC_vPf_A6GWEj_sA9RDc-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZC_vPf_A6GWEj_sA9RDc-27" target="ZC_vPf_A6GWEj_sA9RDc-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC_vPf_A6GWEj_sA9RDc-27" value="User" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="800" width="250" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
